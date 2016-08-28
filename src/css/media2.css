@@ -41,6 +41,7 @@
     flex-direction: column; }
     .body .mobile-only {
       display: block; }
-    .body .walkway, .body .horse {
+    .body .walkway,
+    .body .horse {
       width: 100vw;
       height: auto; } }

@@ -55,13 +55,14 @@ header {
     header .head-flex-container .name {
       text-align: center;
       margin-top: 5vh; }
-      header .head-flex-container .name h1, header .head-flex-container .name h3 {
+      header .head-flex-container .name h1,
+      header .head-flex-container .name h3 {
         font-family: 'Roboto', sans-serif;
         font-weight: 100;
         margin: 0; }
   header .eye {
     height: auto;
-    width: 69vw; }
+    width: 72vw; }
 
 .body {
   display: flex;
@@ -124,6 +125,7 @@ iframe {
     flex-direction: column; }
     .body .mobile-only {
       display: block; }
-    .body .walkway, .body .horse {
+    .body .walkway,
+    .body .horse {
       width: 100vw;
       height: auto; } }

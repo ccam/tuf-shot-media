@@ -22,12 +22,6 @@ gulp.task('minify-css', function () {
   .pipe(gulp.dest('dist/css'));
 });
 
-gulp.task('min-js', function () {
-  return gulp.src('src/js/*.js')
-  .pipe(uglify())
-  .pipe(gulp.dest('dist/js'));
-});
-
 gulp.task('imagemin', function () {
   return gulp.src('src/img/*')
   .pipe(imagemin())
