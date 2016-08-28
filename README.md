@@ -3,6 +3,8 @@
 ## Description
 This is a simple portfolio site for a photography friend. He wanted something super simple that would pretty much just link to his other sites while showing off some of his work.
 
+NOTE: the /docs folder is only for gh-pages
+
 ## Explanation 
 ###Design
 The design was inspired from [this dribble.](https://dribbble.com/shots/2052887-Moverec)
