@@ -1,0 +1,46 @@
+@media (min-width: 320px) and (max-width: 1023px) {
+  .flex-container {
+    padding: 0;
+    margin: 0; }
+  .left-nav {
+    display: none; }
+  img {
+    width: 100vw;
+    height: auto; }
+  .mobile-center {
+    margin: 0 auto;
+    text-align: center;
+    padding: 0;
+    margin: 0; }
+  header {
+    width: 100vw;
+    height: auto; }
+    header .eye {
+      display: none; }
+    header .head-flex-container {
+      flex-direction: column;
+      margin-right: 3vw; }
+      header .head-flex-container .mobile-only {
+        display: block;
+        margin: 0 auto;
+        text-align: center; }
+        header .head-flex-container .mobile-only ul {
+          padding: 0; }
+      header .head-flex-container .logo {
+        height: auto;
+        width: 25vh;
+        margin: 0 auto; }
+      header .head-flex-container .name {
+        text-align: center;
+        padding: 0;
+        margin: 0;
+        display: block; }
+  iframe {
+    height: 100vw; }
+  .body {
+    flex-direction: column; }
+    .body .mobile-only {
+      display: block; }
+    .body .walkway, .body .horse {
+      width: 100vw;
+      height: auto; } }

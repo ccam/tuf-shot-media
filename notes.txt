@@ -1,0 +1,19 @@
+fonts 
+body Raleway thin
+head roboto  regular
+
+
+header color: #222;
+color: #fff;
+
+
+video for bottom of page: 
+https://www.youtube.com/watch?v=35mxhKY7Gaw
+
+
+https://tufshot.smugmug.com/Hunter-Dallas-Photos/
+
+https://www.youtube.com/watch?v=35mxhKY7Gaw&app=desktop
+
+
+logo: https://photos.smugmug.com/photos/i-Q4sDVNX/0/111x111/i-Q4sDVNX-111x111.png
